@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="sourav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=souravlayek&show_icons=true&hide_border=true" />
+<img align="left" alt="sourav's Github Stats" src="https://github-readme-stats.souravlayek.vercel.app/api?username=souravlayek&show_icons=true&hide_border=true" />
 
 [website]: https://souravlayek.herokuapp.com
 [twitter]: https://twitter.com/SouravLayek16
