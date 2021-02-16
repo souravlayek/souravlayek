@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Learning flutter]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for projects that fits for me.
-- 🥅 2020 Goals: Learning everything in my way.
+- 🥅 2021 Goals: Learning everything in my way.
 - ⚡ Fun fact: I love to take photos of nature
 
 ### Connect with me:
