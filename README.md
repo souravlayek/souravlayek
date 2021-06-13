@@ -1,7 +1,7 @@
 ### Hi there, I'm Sourav - [website] 👋
 
-## I'm a Developer and Teacher!
-- 🔭 I’m currently working on a [Learning flutter]
+## I'm a Self-Taught Developer!
+- 🔭 I’m currently working on a [Learning Self-Development]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for projects that fits for me.
 - 🥅 2021 Goals: Learning everything in my way.
