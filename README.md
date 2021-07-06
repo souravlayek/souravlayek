@@ -4,13 +4,13 @@
 - 🔭 I’m currently working on a [Learning Self-Development]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for projects that fits for me.
-- 🥅 2021 Goals: Learning everything in my way.
-- ⚡ Fun fact: I love to take photos of nature
+- 🥅 2021 Goals: Improving my react skill.
+- ⚡ Fun fact: I love to take photos of nature and ride bike.
 
 ### Connect with me:
 
-[<img align="left" alt="souravlayek.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="souravlayek.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="The minimalist coder | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="SouravLayek16 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="souravlayek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="souravlayek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -45,7 +45,8 @@
 
 <img align="left" alt="sourav's Github Stats" src="https://github-readme-stats.souravlayek.vercel.app/api?username=souravlayek&show_icons=true&hide_border=true" />
 
-[website]: https://souravlayek.herokuapp.com
+[website]: https://souravlayek.com
 [twitter]: https://twitter.com/SouravLayek16
 [instagram]: https://www.instagram.com/souravlayek11
 [linkedin]: https://www.linkedin.com/in/souravlayek
+[youtube]: https://www.youtube.com/channel/UCNGrKRkUt5YgFGMoZ3ulYKg
