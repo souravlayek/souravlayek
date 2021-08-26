@@ -1,4 +1,4 @@
-# Hi there, I'm Sourav - [Portfolio](website) 👋
+# Hi there, I'm Sourav - [Portfolio](https://souravlayek.com) 👋
 
 ## I'm a Self-Taught Front-end Developer!
 
@@ -12,9 +12,9 @@
 
 ---
 
-[<img  alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin)
-[<img  alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](youtube)
-[<img  alt="g-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](gmail)
+[<img  alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/souravlayek)
+[<img  alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCNGrKRkUt5YgFGMoZ3ulYKg)
+[<img  alt="g-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:souravlayek11@gmail.com)
 
 ### ~or~
 
@@ -72,6 +72,7 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [How to persist and rehydrate redux store efficiently](https://www.youtube.com/watch?v=pEzvtMb0HSI)
 - [Best way to use Redux with React | PART 2](https://www.youtube.com/watch?v=a7ziNqDLlAY)
 - [Best way to use Redux with React | PART 1](https://www.youtube.com/watch?v=vuHVC3kLNWw)
