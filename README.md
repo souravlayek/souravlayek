@@ -75,6 +75,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to persist and rehydrate redux store efficiently](https://www.youtube.com/watch?v=pEzvtMb0HSI)
+- [Best way to use Redux with React | PART 2](https://www.youtube.com/watch?v=a7ziNqDLlAY)
+- [Best way to use Redux with React | PART 1](https://www.youtube.com/watch?v=vuHVC3kLNWw)
 <!-- YOUTUBE:END -->
 
 <!--
