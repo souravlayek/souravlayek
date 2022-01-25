@@ -8,6 +8,12 @@
 - ### 🥅 2021 Goals: Introducing minimalism in coding.
 - ### ⚡ Fun fact: I love riding my bike into the nature. 🏔️
 
+## Get my business card in your command line
+```bash
+npx sourav
+```
+
+
 ## Connect with me
 
 ---
