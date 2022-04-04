@@ -1,11 +1,11 @@
 # Hi there, I'm Sourav - [Portfolio](https://souravlayek.com) 👋
 
-## I'm a Self-Taught Front-end Developer!
+## I'm a Self-Taught Front-end Developer specialized in React.JS!
 
-- ### 🔭 I’m currently working as a Front-end developer at [3rdly.uk](https://thirdly.co.uk)
+- ### 🔭 I’m currently working as a Front-end developer at [CBNITS](https://www.cbnits.com/)
 - ### 🌱 I’m currently learning everything 🤣
-- ### 👯 I’m looking for challenging projects.
-- ### 🥅 2021 Goals: Introducing minimalism in coding.
+- ### 👯 I’m looking for fun and challenging projects.
+- ### 🥅 2022 Goals: Do silly things with coding.
 - ### ⚡ Fun fact: I love riding my bike into the nature. 🏔️
 
 ## Get my business card in your command line
@@ -22,9 +22,9 @@ npx sourav
 [<img  alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCNGrKRkUt5YgFGMoZ3ulYKg)
 [<img  alt="g-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:souravlayek11@gmail.com)
 
-### ~or~
+### _or_
 
-### [🌐 visit my portfolio](website)
+### [🌐 visit my portfolio](https://souravlayek.com)
 
 <br />
 <br />
