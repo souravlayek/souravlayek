@@ -2,7 +2,7 @@
 
 ## I'm a Self-Taught Front-end Developer specialized in React.JS!
 
-- ### 🔭 I’m currently working as a Front-end developer at [CBNITS](https://www.cbnits.com/)
+- ### 🔭 I’m currently working as a Front-end developer at [NextZenMinds](https://www.nzminds.com/)
 - ### 🌱 I’m currently learning everything 🤣
 - ### 👯 I’m looking for fun and challenging projects.
 - ### 🥅 2022 Goals: Do silly things with coding.
