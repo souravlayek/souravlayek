@@ -5,7 +5,7 @@
 - ### 🔭 I’m currently working as a Front-end developer at [NextZenMinds](https://www.nzminds.com/)
 - ### 🌱 I’m currently learning everything 🤣
 - ### 👯 I’m looking for fun and challenging projects.
-- ### 🥅 2022 Goals: Do silly things with coding.
+- ### 🥅 2025 Goal: Becoming an expert in web development.
 - ### ⚡ Fun fact: I love riding my bike into the nature. 🏔️
 
 ## Get my business card in your command line
