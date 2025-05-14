@@ -78,11 +78,11 @@ npx sourav
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Bypassed Token Expiry Hassles in Next.js with a Surprisingly Simple Trick](https://blog.souravlayek.com/how-i-bypassed-token-expiry-hassles-in-next-js-with-a-surprisingly-simple-trick/)
 - [The Hidden Stripe Debugging Hack Every Developer Should Know](https://blog.souravlayek.com/the-hidden-stripe-debugging-hack-every-developer-should-know/)
 - [Why I Trained an AI to Read My Mind &lpar;Sort Of&rpar; 🤯](https://blog.souravlayek.com/why-i-trained-an-ai-to-read-my-mind-sort-of/)
 - [Building the Foundation: Devlog Entry #1](https://blog.souravlayek.com/building-the-foundation-devlog-entry-1/)
 - [⚖️Balancing Act: The Blueprint for Work-Life Harmony❤️](https://blog.souravlayek.com/ef-b8-8fbalancing-act-the-blueprint-for-work-life-harmony-ef-b8-8f/)
-- [Building the Future: A Three-Year Plan for Aspiring Software Engineers](https://blog.souravlayek.com/building-the-future-a-three-year-plan-for-aspiring-software-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
