@@ -78,11 +78,11 @@ npx sourav
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Razorpay Subscription Integration Guide for SaaS &lpar;with Real Indie Dev Pain &amp; Code&rpar;](https://blog.souravlayek.com/razorpay-subscription-integration-guide-for-saas-with-real-indie-dev-pain-code/)
 - [Sounding Confident in English as a Non-Native Speaker: My Honest Fix](https://blog.souravlayek.com/sounding-confident-in-english-as-a-non-native-speaker-my-honest-fix/)
 - [Why After Years of Being a Developer, I’m Embracing VibeCoding &lpar;a.k.a. Coding with AI&rpar;](https://blog.souravlayek.com/why-after-years-of-being-a-developer-im-embracing-vibecoding-a-k-a-coding-with-ai/)
 - [How I Bypassed Token Expiry Hassles in Next.js with a Surprisingly Simple Trick](https://blog.souravlayek.com/how-i-bypassed-token-expiry-hassles-in-next-js-with-a-surprisingly-simple-trick/)
 - [The Hidden Stripe Debugging Hack Every Developer Should Know](https://blog.souravlayek.com/the-hidden-stripe-debugging-hack-every-developer-should-know/)
-- [Why I Trained an AI to Read My Mind &lpar;Sort Of&rpar; 🤯](https://blog.souravlayek.com/why-i-trained-an-ai-to-read-my-mind-sort-of/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
