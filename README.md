@@ -1,18 +1,37 @@
-# Hi there, I'm Sourav - [Portfolio](https://souravlayek.com) 👋
+<h1 align="center">Hi 👋, I'm Sourav Layek</h1>
+<h3 align="center">Engineer Who Builds Like a Founder | Crafting Clean Architectures, AI-Driven Products & Developer-Centric Experiences</h3>
 
-## I'm a Self-Taught Front-end Developer specialized in React.JS!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravlayek&label=Profile%20views&color=0e75b6&style=flat" alt="souravlayek" /> </p>
 
+<!--
 - ### 🔭 I’m currently Building [PitchMirror](https://pitchmirror.souravlayek.com/)
 - ### 🌱 I’m currently learning Gen-AI Stuff & Marketting 🤣
 - ### 👯 I’m looking for fun and challenging projects.
 - ### 🥅 2025 Goal: Becoming a content creator.
 - ### ⚡ Fun fact: I love riding my bike into the nature. 🏔️
+-->
+- ### 🔭 I’m currently working on [PitchMirror](https://pitchmirror.souravlayek.com)
+
+- ### 🌱 I’m currently learning **Gen-AI stuffs  & Marketting**
+
+- ### 👨‍💻 All of my projects are available at [https://souravlayek.com](https://souravlayek.com)
+
+- ### 📝 I regularly write articles on [https://blog.souravlayek.com](https://blog.souravlayek.com)
+
+- ### 💬 Ask me about **React, Golang, Gen-AI**
+
+- ### 📫 How to reach me **souravlayek11@gmail.com**
+
+- ### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1J_5tA3SyYXv3wpl7PBcl2ZnkJhGEwQUx/view?usp=drive_link)
+
+- ⚡ Fun fact **I created PitchMirror to fix my own fear of speaking confidently. Now an AI listens to me speak and says, “You hesitated 17 times.” Brutal, but fair.**
+
+
 
 ## Get my business card in your command line
 ```bash
 npx sourav
 ```
-
 
 ## Connect with me
 
@@ -115,11 +134,12 @@ npx sourav
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravlayek&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=souravlayek)](https://git.io/streak-stats)
 ---
 
 [website]: https://souravlayek.com
-[twitter]: https://twitter.com/SouravLayek16
-[instagram]: https://www.instagram.com/souravlayek11
+[twitter]: https://twitter.com/souravlayek_
+[instagram]: https://www.instagram.com/souravs_travel_diary
 [linkedin]: https://www.linkedin.com/in/souravlayek
 [youtube]: https://www.youtube.com/channel/UCNGrKRkUt5YgFGMoZ3ulYKg
 [gmail]: mailto:souravlayek11@gmail.com
