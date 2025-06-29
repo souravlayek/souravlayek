@@ -103,6 +103,8 @@ npx sourav
 
 <br />
 
+### [<img alt="PitchMirror" width="40px" src="https://pitchmirror.souravlayek.com/_next/image?url=%2Flogo.png&w=256&q=75" /> PitchMirror - AI Speech Feedback for Better Presentations](https://pitchmirror.souravlayek.com)
+
 ### [<img alt="Rempass" width="40px" src="https://play-lh.googleusercontent.com/NgqQAFNBtdA2yHMv_b4K8i1go_eiutmlNgc31QSUd1RiX1Y92BD7XBHinAV8YMzkQzq0=s180-rw" /> Rempass - store your passwords locally](https://play.google.com/store/apps/details?id=com.sourav.rempass)
 
 ### [<img alt="vstodo" width="40px" src="https://souravlayek.gallerycdn.vsassets.io/extensions/souravlayek/vs-todo/2.0.0/1626895925958/Microsoft.VisualStudio.Services.Icons.Default" /> VS Todo - vscode extenstion for task management](https://marketplace.visualstudio.com/items?itemName=SouravLayek.vs-todo)
