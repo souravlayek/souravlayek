@@ -2,10 +2,10 @@
 
 ## I'm a Self-Taught Front-end Developer specialized in React.JS!
 
-- ### 🔭 I’m currently working as a Front-end developer at [NextZenMinds](https://www.nzminds.com/)
-- ### 🌱 I’m currently learning everything 🤣
+- ### 🔭 I’m currently Building [PitchMirror](https://pitchmirror.souravlayek.com/)
+- ### 🌱 I’m currently learning Gen-AI Stuff & Marketting 🤣
 - ### 👯 I’m looking for fun and challenging projects.
-- ### 🥅 2025 Goal: Becoming an expert in web development.
+- ### 🥅 2025 Goal: Becoming a content creator.
 - ### ⚡ Fun fact: I love riding my bike into the nature. 🏔️
 
 ## Get my business card in your command line
